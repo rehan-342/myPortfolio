@@ -40,3 +40,8 @@ desktop.ini
 # Laravel Homestead
 Homestead.json
 Homestead.yaml
+# Local AI / Agent tools
+/.agents/
+/.amp/
+AGENTS.md
+boost.json
